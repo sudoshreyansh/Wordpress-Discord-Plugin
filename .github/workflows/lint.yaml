@@ -16,3 +16,6 @@ jobs:
 
     - name: Check PHP syntax errors
       uses: overtrue/phplint@3.0.3
+      with:
+        path: .
+        options: --exclude=*.log
