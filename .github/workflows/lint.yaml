@@ -1,0 +1,18 @@
+name: PHP Linting
+
+on:
+  push:
+    branches: [ $default-branch ]
+  pull_request:
+    branches: [ $default-branch ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Check PHP syntax errors
+      uses: overtrue/phplint@3.0.3
