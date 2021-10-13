@@ -2,8 +2,6 @@
 
 This is the repository for the WordPress plugin: [Live Members Counter for Discord](https://wordpress.org/plugins/live-members-counter-for-discord/)
 
-*Note: Markdown files are not pushed to the subversion.*
-
 Live Members Counter For Discord is an one of a kind plugin which helps you embed the members count from all your Discord servers, and comes with an interactive dashboard to edit the appearance of your members counter.
 
 ## Installation
