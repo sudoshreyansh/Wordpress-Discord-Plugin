@@ -1,6 +1,6 @@
 # Live Members Counter For Discord
 
-![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/rating/live-members-counter-for-discord?style=for-the-badge)
+<a href="https://wordpress.org/plugins/live-members-counter-for-discord/">![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/rating/live-members-counter-for-discord?style=for-the-badge)</a>
 
 This is the repository for the WordPress plugin: [Live Members Counter for Discord](https://wordpress.org/plugins/live-members-counter-for-discord/)
 
